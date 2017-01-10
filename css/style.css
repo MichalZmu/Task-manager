@@ -1,0 +1,23 @@
+.small-box{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+.sending_button1{
+    margin-top: 10px;
+    
+}
+
+.dateColumn{
+    width: 15%;
+}
+
+.textColumn{
+    width: 70%;
+}
+
+.buttonColumn{
+    width: 15%;
+}
+
